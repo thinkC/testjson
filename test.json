@@ -2,6 +2,7 @@
 
 {
 "lagosAbuja": {
+"description" : "Lagos To Abuja",
 "busType": "https://ymimg1.b8cdn.com/uploads/car_model/4036/pictures/3377873/2018_Toyota_Hiace__2_.jpg",
 "busTypeOne": "Hiace",
 "departureTime": "6:00AM",
@@ -10,6 +11,7 @@
 "seat": "View Seat"
 },
 "lagosportHcourt": {
+"description" : "Lagos To Port Harcourt",
 "busType": "https://ymimg1.b8cdn.com/uploads/car_model/4036/pictures/3377873/2018_Toyota_Hiace__2_.jpg",
 "busTypeOne": "Hiace",
 "departureTime": "6:00AM",
